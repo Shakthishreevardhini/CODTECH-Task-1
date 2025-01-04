@@ -30,6 +30,8 @@ Connect Buttons to Actions: Link the "Calculate" button to process input and dis
 Test and Debug: Ensure calculations work correctly and handle errors like invalid input.
 
 
+OUTPUT:
+![image](https://github.com/user-attachments/assets/d003b0f3-b34b-46d1-805e-fdb5c2baa9aa)
 
 
        
